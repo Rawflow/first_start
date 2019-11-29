@@ -1,4 +1,4 @@
-# lab1
+# VuejsProject
 
 ## Project setup
 ```
